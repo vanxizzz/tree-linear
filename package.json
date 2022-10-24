@@ -1,0 +1,17 @@
+{
+  "author": {
+    "name": "vanxizzz",
+    "email": "1050132079@qq.com"
+  },
+  "dependencies": {},
+  "description": "transfer object between tree and linear",
+  "keywords": [
+    "tree",
+    "linear",
+    "tree-linear",
+    "linear-tree"
+  ],
+  "main": "index.js",
+  "name": "tree-linear",
+  "version": "1.0.0"
+}
